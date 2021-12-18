@@ -1,3 +1,5 @@
+// git test
+
 // sendAction()実行時に引数として渡し、エンドポイントの末尾に付与する文字列
 const END_POINT_SUFFIX_TEXT = 'search_by_text';
 const END_POINT_SUFFIX_IMAGE = 'search_by_image';
